@@ -1,0 +1,44 @@
+.content-box {
+    width: 100%;
+    display:flex;
+    position:absolute;
+    margin-top: 4.6rem;
+    text-align: left;
+    flex-direction:row;
+    flex-wrap: nowrap;
+}
+
+.content-box-2{
+    width: 100%;
+}
+
+.fucn-list{
+    width: 14.4rem;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(234, 234, 234);
+}
+
+.fucn-list a{
+    display:flex;
+    /* position: fixed; */
+    background-color: rgb(212, 212, 212);
+    border: 6px;
+    border-color: rgb(54, 54, 51);
+    width: 14rem;
+    height: 2rem;
+    justify-content: left;
+    text-align: left;
+    align-items: center;
+}
+
+.fucn-list a:hover{
+    background-color: rgb(192, 192, 192);
+    transform: translateX(-0.1rem);
+    /* box-shadow: 5px 7.5px 15px rgba(66, 66, 66, 0.344); */
+}
+
+a:visited{
+    color: black;
+}

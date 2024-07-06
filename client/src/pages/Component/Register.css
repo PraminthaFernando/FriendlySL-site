@@ -1,0 +1,91 @@
+.register-card {
+    justify-content:end;
+    align-items: center;
+    margin: 0px;
+    height: 46.9rem;
+    background-image: url('https://st.adda247.com/https://wpassets.adda247.com/wp-content/uploads/multisite/sites/5/2023/10/25121451/SRI-LANKA-IMAGE-1.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.register-card-0 {
+    padding-top: 1rem;
+    justify-content: end;
+    margin-top: 0px;
+    margin: auto;
+    align-items: center;
+    width: 30.55rem;
+    height: 44rem;
+    border-radius: 15px;
+    border: rgb(204, 204, 204);
+    background-color: rgba(255, 255, 255, 0.882);
+    backface-visibility:visible;
+}
+
+.select-box{
+    margin-top: 0px;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    justify-content: center;
+    text-align: left;
+}
+
+.select{
+    width: 28.6rem;
+    height: 2.3rem;
+    border-radius: 6px;
+}
+
+.input-box {
+    display: flex;
+}
+
+.input-box-0 {
+    margin-top: 0px;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    justify-content: center;
+    text-align: left;
+}
+
+.input-box-1 {
+    text-align: left;
+    margin: 1rem;
+}
+
+.input-long {
+    height: 2rem;
+    width: 28.25rem;
+    border-radius: 8px;
+}
+
+.tag {
+    margin-bottom: 0.6rem;
+    margin-left: 1px;
+}
+
+.input-short {
+    height: 2rem;
+    width: 12.8rem;
+    border-radius: 8px;
+}
+
+.confirm-btn {
+    margin: 1rem;
+    width: 28.5rem;
+    height: 2.5rem;
+    border-radius: 6px;
+    background-color: black;
+    color: white;
+}
+
+div {
+    display:block;
+    margin-top: 0rem;
+}
+
+body {
+    margin: 0rem;
+    margin-top: 0px;
+}

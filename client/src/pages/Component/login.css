@@ -1,0 +1,76 @@
+
+.login {
+    justify-content:end;
+    align-content: center;
+    align-items: center;
+    margin: 0px;
+    height: 46.9rem;
+    background-image: url('https://st.adda247.com/https://wpassets.adda247.com/wp-content/uploads/multisite/sites/5/2023/10/25121451/SRI-LANKA-IMAGE-1.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+
+  }
+
+  .login-card {
+    justify-content:center;
+    padding-top: 5rem;
+    padding-bottom: 15rem;
+    width: 23rem;
+    height: 12rem;
+    border: 0.75px solid rgb(226, 226, 226);
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.882);
+    backface-visibility:visible;
+    margin:auto;
+  }
+
+  .mb-3 {
+    width: 21rem;
+    height: 1.4rem;
+    padding: 0.5rem;
+    margin: auto;
+    justify-content: left;
+  }
+
+  .mb-3 label{
+    width: 8rem;
+    height: 2rem;
+  }
+
+  .form-control {
+    width: 15rem;
+    height: 2rem;
+    border-radius: 6px;
+    border-color: rgba(255, 255, 255, 0.451);
+    border: 0.4px solid rgba(163, 163, 163, 0.312);
+  }
+
+  .btn {
+    margin: 1rem;
+    width: 20rem;
+    height: 2rem;
+    color: white;
+    background-color: rgb(54, 54, 255);
+    border-radius: 6px;
+    cursor: pointer;
+  }
+
+  .msg {
+    position:static;
+    width: 20rem;
+    text-align: center;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+    color: rgb(36, 36, 36);
+    font-size:small;
+  forced-color-adjust:auto;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .text-danger {
+    color: rgb(255, 142, 3);
+    text-align: center;
+  }

@@ -1,0 +1,26 @@
+.Listing {
+    display:flex;
+    margin-left: 1rem;
+    margin-top: 6rem;
+    text-align: left;
+    flex-direction:row;
+    flex-wrap: nowrap;
+}
+
+  .Check-box{
+    justify-content: left;
+    margin-left: 1rem;
+    margin-right: 2rem;
+    width: 10rem;
+  }
+
+  .cat-card-0 {
+    justify-content: left;
+    margin-top: 3.5rem;
+    display: inline-flex;
+    flex-direction: row;
+    flex: content;
+    flex-wrap:wrap;
+    text-align: left;
+    max-width: 800px;
+  }

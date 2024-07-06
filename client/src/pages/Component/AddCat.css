@@ -1,0 +1,34 @@
+.drop-box{
+    margin: 1.7rem;
+    width: 27rem;
+    height: 25rem;
+}
+
+.dropzone{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 25rem;
+    border: 4px dashed rgb(117, 112, 112);
+    padding: 20px;
+    margin: 2rem;
+}
+
+.drop-box img {
+    width:100%;
+    height: 100%;
+    object-fit:scale-down;
+}
+
+.Add {
+    background-color: black;
+    color:aliceblue;
+    border-radius: 6px;
+    width: 10rem;
+    height: 2rem ;
+    /* margin: 1rem; */
+    margin-left: 1.6rem;
+    margin-right: 1.6rem;
+    margin-bottom: 1.5rem;
+}

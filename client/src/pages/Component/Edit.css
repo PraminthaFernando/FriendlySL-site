@@ -1,0 +1,29 @@
+.btn-box{
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.btn{
+    width: 6rem;
+}
+
+.register-card{
+    display: flex;
+    width: 100%;
+}
+
+.register-card-0{
+    min-height: 25rem;
+    height: fit-content;
+    z-index: 1;
+    display: block;
+    margin-top: 4rem;
+}
+
+.drop-box{
+    height: 18rem;
+}
+
+.dropzone{
+    height: 15rem;
+}
